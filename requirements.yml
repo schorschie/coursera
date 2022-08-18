@@ -1,0 +1,15 @@
+name: coursera
+channels:
+ - conda-forge
+ - anaconda
+dependencies:
+  - nodejs
+  - mplleaflet
+  - pandas
+  - matplotlib
+  - ipykernel
+  - seaborn
+  - pip
+  - jupyter
+  - pip:
+    - tools
