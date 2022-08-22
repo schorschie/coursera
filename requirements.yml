@@ -13,3 +13,6 @@ dependencies:
   - jupyter
   - pip:
     - tools
+    - pycoingecko
+    - plotly
+    - mplfinance
